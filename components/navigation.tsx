@@ -19,7 +19,7 @@ export function Navigation({ variant = "light" }: NavigationProps) {
         <Link href="/" className="flex items-center gap-2">
           <div className="h-10 w-10 rounded-full bg-sand-200 border border-sand-300" />
           <div className="leading-tight">
-            <p className="font-serif text-xl text-[#2a2215]">The Landline Legacy</p>
+            <p className="font-serif text-xl text-[#2a2215]">remembered</p>
             <p className="text-sm text-[#4b3821]">Stories kept in their own voice</p>
           </div>
         </Link>

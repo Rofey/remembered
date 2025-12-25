@@ -35,10 +35,10 @@ const pricing = [
 ];
 
 const callScript = [
-  "“Hi June, it’s The Landline Legacy. Ready for your weekly story call?”",
-  "“This week’s question is: What did home feel like when you were a kid?”",
-  "“Take your time. I’m listening. You can pause or stop anytime.”",
-  "“Thank you for sharing. We’ll keep this safe for your family.”"
+  "\"Hi June, it's remembered. Ready for your weekly story call?\"",
+  "\"This week's question is: What did home feel like when you were a kid?\"",
+  "\"Take your time. I'm listening. You can pause or stop anytime.\"",
+  "\"Thank you for sharing. We'll keep this safe for your family.\""
 ];
 
 export default function LandingPage() {

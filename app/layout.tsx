@@ -14,7 +14,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "The Landline Legacy",
+  title: "remembered",
   description:
     "One phone call a week. A lifetime of memories. Preserve the voices of the people you love."
 };
